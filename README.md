@@ -11,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XebastianePitogo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1&custom_title=My%20Stats!" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XebastianePitogo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2&custom_title=My%20Stats!" height="150" alt="languages graph"  />
 </div>
-
-###
-<hr>
 <div align="center">
   <a href="https://www.linkedin.com/in/pitogoxc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -35,20 +32,6 @@
 <!--Technology-->
 <h2 align="center">🚀 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀</h2>
 <p align="center"> Here are some of the technologies I feel confident in my abilities with!<br></p>
-  <div align="center">
-  <a href="linkedin.com/in/pitogoxc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="instagram.com/camytog/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="facebook.com/XebastianePitogo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3e65cf&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="pitogoxebastiane@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
 <div align="center">
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
@@ -62,7 +45,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
 </div>
-<h2></h2>
 <!---->
 <div align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxydWwxYTcxbzZqcm8xenVxbHhvcHN4eDN6dGN5eWZvd2w5MXlsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ybN78I5UrIXq32lND/giphy.gif">
