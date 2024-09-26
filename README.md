@@ -21,7 +21,7 @@
   <a href="https://www.facebook.com/XebastianePitogo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=3e65cf&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="pitogoxebastiane@gmail.com" target="_blank">
+  <a href="https://www.pitogoxebastiane@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c71610&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
