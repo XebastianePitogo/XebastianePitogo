@@ -10,7 +10,6 @@
   𝘾:\𝙋𝙞𝙩𝙤𝙜𝙤_𝙓𝘾\𝙂𝙞𝙩𝙝𝙪𝙗𝘿𝙄𝙍
   <img src="https://media.tenor.com/uvnAp94SgyoAAAAi/macintosh-macintosh-portable.gif" width="48rem" height="46rem" alt="Macintosh Portable Icon" />
 </h1>
-<hr>
 
 <!-- Counter -->
 <p align="center"> 
